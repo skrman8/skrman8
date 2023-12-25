@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 - 👋 Hi, I’m @skrman8
 - 👀 I’m interested in philosophy,drawing,literature,computer science,physics,mathematics,language.
 - 🌱 I’m currently learning philosophy,drawing,literature,computer science,physics,mathematics,language.

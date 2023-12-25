@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://images/image.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://images/image.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://images/image.png">
+  <source media="(prefers-color-scheme: dark)" srcset="images/image.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/image.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="images/image.png">
 </picture>
 
 - 👋 Hi, I’m @skrman8
